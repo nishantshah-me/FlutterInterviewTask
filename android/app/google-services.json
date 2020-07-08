@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "700967801474",
+    "firebase_url": "https://epaisainterview.firebaseio.com",
+    "project_id": "epaisainterview",
+    "storage_bucket": "epaisainterview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700967801474:android:7bff1eb193c904dd795a9b",
+        "android_client_info": {
+          "package_name": "com.example.ePaisa_interview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700967801474-a5n0jom0ckrfh00iiknd4jt214e54mn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHyUu4qm9_XGGVyRPCSRlDw9_zx_NHlHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700967801474-a5n0jom0ckrfh00iiknd4jt214e54mn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

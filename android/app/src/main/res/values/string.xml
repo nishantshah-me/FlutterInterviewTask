@@ -1,0 +1,4 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="facebook_app_id">572124986810115</string>
+    <string name="fb_login_protocol_scheme">fb572124986810115</string>
+</resources>
